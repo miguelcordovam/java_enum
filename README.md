@@ -1,0 +1,1 @@
+Testing polymorphism with Enum, example learned from Java Magazine March/April and July/Aug 2016
